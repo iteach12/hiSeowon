@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HiSeowon</string>
+    <string name="todaystatus">오늘은 하늘이 깨끗해요!</string>
+    <string name="tempnow">현재기온</string>
+    <string name="empty" />
+    <string name="misemunji">미세먼지</string>
+    <string name="chomisemunji">초미세먼지</string>
+    <string name="refresh">갱신시각 : </string>
+    <string name="timenow">현재시각</string>
+    <string name="percent">%</string>
+    <string name="lunchmenu">급식메뉴</string>
+</resources>

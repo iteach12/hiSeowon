@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/linearLayout12"
+    android:layout_width="0dp"
+    android:layout_height="0dp"
+    app:layout_constraintBottom_toTopOf="@+id/guideline2"
+    app:layout_constraintEnd_toStartOf="@+id/guideline4"
+    app:layout_constraintStart_toStartOf="@+id/guideline9"
+    app:layout_constraintTop_toTopOf="@+id/guideline5"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/todaywhatday"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/mapo"
+        android:layout_marginBottom="5dp"
+        android:text="@string/empty" />
+
+    <!--        <TextClock-->
+    <!--            android:id="@+id/todaydate"-->
+    <!--            android:layout_gravity="center"-->
+    <!--            android:fontFamily="@font/mapo"-->
+    <!--            android:textSize="30sp"-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:format12Hour="hh:mm:ss"/>-->
+
+</LinearLayout>
